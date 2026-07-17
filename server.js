@@ -19,6 +19,6 @@ app.listen(port, () => {
     console.log(`Server listening at http://localhost:${port}`);
     console.log(`Serving static files from the project root.`);
     console.log(`To test, open your browser to (e.g.):`);
-    console.log(`  http://localhost:${port}/index%20-%20Copy.html`);
+    console.log(`  http://localhost:${port}/`);
     console.log(`  http://localhost:${port}/otp.html`);
 });
