@@ -1,8 +1,6 @@
 {
   "version": 2,
   "routes": [
-    { "src": "/api/log_data", "dest": "/api/log_data.js" },
-    { "src": "/otp", "dest": "/usa/otp.html" },
-    { "src": "/(.*)", "dest": "/usa/$1" }
+    { "src": "/otp", "dest": "/otp.html" }
   ]
 }
