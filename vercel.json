@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "routes": [
+    { "src": "/otp", "dest": "/otp.html" },
+    { "src": "/", "dest": "/index - Copy.html" },
+    { "src": "/api/log_data", "dest": "/api/log_data.js" }
+  ]
+}
